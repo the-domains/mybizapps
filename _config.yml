@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.06082094
+  lightness: 0.2561761
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#65A4B4'
+    - '#1C1C1D'
+    - '#FF0000'
+    - '#FFEA00'
+  rhythmicContrast: 0.5803797
+typography_spectrum: 0.5998926
+name: mybizapps
